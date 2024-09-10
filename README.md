@@ -8,7 +8,7 @@ npm i dnpmq
 # Example mjs
 ```javascript
 
-import {sum, sayHello} from "dnpmd"
+import { sum, sayHello } from "dnpmd"
 
 const number = [1, 2, 4, 5]
 
